@@ -62,7 +62,7 @@ This project explores Disney's vast content library using **Python** and **Table
 ![Dashboard 1](https://github.com/Meghana157/Data-Story-of-Disney/blob/main/dashboard/Disney_dashboard1.png)  
 
 #### **Content Duration and Ratings**  
-![Dashboard 2](./path_to_image2.png)  
+![Dashboard 2](https://github.com/Meghana157/Data-Story-of-Disney/blob/main/dashboard/Disney_dashboard2.png) 
 
 #### **Directors and Cast Insights**  
-![Dashboard 3](./path_to_image3.png)  
+![Dashboard 3](https://github.com/Meghana157/Data-Story-of-Disney/blob/main/dashboard/Disney_dashboard3.png)  
