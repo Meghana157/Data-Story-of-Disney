@@ -46,7 +46,7 @@ This project explores Disney's vast content library using **Python** and **Table
 🎭 Genre vs. Ratings Distribution  
 📈 Top Contributors (Directors & Actors)  
 
-🔗 **[Jupyter Notebook](./Disney_Content_Trend_Analysis.ipynb)** (Check the full analysis here!)  
+🔗 **[Jupyter Notebook](https://github.com/Meghana157/Data-Story-of-Disney/blob/main/Disney%20Content%20Trend%20Analysis.ipynb)** (Check the full analysis here!)  
 
 ---
 
